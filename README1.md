@@ -1,35 +1,40 @@
-# Auto1testing
+# Glasovna promena
 
-## Test task requirements:
+## Jednačenje suglasnika po zvučnosti:
 
-Search is a crucial part of all Auto1 platforms and Automation testing is essential part of software development in Auto Group. Please create automation test which will do the following. Upload solution to github.com or send it as zip file: (You are free to use any programming language or any framework for this task. Please do not use any record-pay tools)
+Kada se u reči nađu u dodiru dva prava (šumna) suglasnika nejednake zvučnosti, prvi od njih se prilagođava drugom: (Prvi suglasnik iz para, zamenjuje se svojim parnjakom koji je po zvučnosti jednak drugom suglasniku iz para.Jednačenje suglasnika po zvučnosti vrši se prilikom promene oblika reči i prilikom građenja novih reči radi lakšeg izgovora. Pogledaj na https://www.pismenica.rs/gramatika/jednacenje-suglasnika-po-zvucnosti/ )
 
-- Open https://www.autohero.com/de/search/
+Prema zvučnosti, šumni suglasnici se dele na:
 
-- Filter for First registration ( Erstzulassung ). Filter for FROM 2015
+- zvučne: b, d, dž, đ, g, z, ž
 
-- Apply Filter
+- bezvučne: c, č, ć, f, h, k, p, s, š, t
 
-- Sort cars by Price Descending ( Höchster Preis )
+Svaki zvučni suglasnik ima svoj odgovarajući bezvučni parnjak i to: b–p, d–t, dž–č, đ–ć, g–k, z–s, ž–š.
 
-- Verify all cars are filtered by first registration ( 2015+ )
 
-- Verify all cars are sorted by price descending
+## Obezvučavanje - promena zvučnog suglasnika u bezvučni:
 
-## Project structure:
+- B u P: hleb – hlepčić, kobac – kopci, ljubak – ljupka;
+- D u T:  pred+čas – pretčas, predak – pretka, sladak – slatka;
+- DŽ u Č: Kembridž – kembrički;
+- Đ u Ć: riđ – riđkast, žeđ – žećca;
+- G u K: drugi – drukčiji, beg – bekstvo;
+- Z u S: bez+konačan – beskonačan, blizak – bliska, drzak – drska;
+- Ž u Š: držati – drška, težak – teška.
 
-3 classes:
 
-BaseClass - environment setup;
+## Ozvučavanje - promena bezvučnog suglasnika u zvučni:
 
-SearchClass - POM class, locators and methods used for searching page;
+- Č u DŽ: poručiti – porudžbenica, vrač – vradžbina;
+- K u G: burek – buregdžija;
+- P u B: ćevap – ćevabdžinica, top – tobdžija;
+- S u Z:  s+bogom – zbogom, s+družiti – združiti;
+- Š u Ž: zaduš+bina – zadužbina;
+- T u D: svat - svadba, kositi – kosidba, ploviti – plovidba.
 
-TestClass - test;
+## F, H, C:
 
-## Tech stack:
+_Bezvučni suglasnici c, f i h nemaju svoje zvučne parnjake._
 
-Java programming language with TestNG framework;
-
-## Test running:
-
-_mvn clean test_
+Ipak, kada se ovi suglasnici nalaze na drugom mestu, utiču na promenu zvučnih suglasnika ispred sebe: raz+cvetati – rascvetati, raz+formirati – rasformirati, raz+hladiti – rashladiti.
