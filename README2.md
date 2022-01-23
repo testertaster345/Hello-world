@@ -1,4 +1,4 @@
-# JOTOVANJE  
+# Jotovanje  
 
 Jotovanje je glasovna promena u kojoj se sonant J spaja sa suglasnicima ispred sebe koji nisu prednjonepčani suglasnici (Z, S, D, T, N, L, K G, H) 
 i na taj način daje prednjonepčane suglasnike (Ž, Š, Đ, Ć, NJ, LJ, Č).
