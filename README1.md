@@ -1,7 +1,7 @@
 # Glasovna promena
 
 ## Jednačenje suglasnika po zvučnosti:
-
+Tra la la la
 Kada se u reči nađu u dodiru dva prava (šumna) suglasnika nejednake zvučnosti, prvi od njih se prilagođava drugom: Prvi suglasnik iz para, zamenjuje se svojim parnjakom koji je po zvučnosti jednak drugom suglasniku iz para. Jednačenje suglasnika po zvučnosti vrši se prilikom promene oblika reči i prilikom građenja novih reči radi lakšeg izgovora. Pogledaj na https://www.pismenica.rs/gramatika/jednacenje-suglasnika-po-zvucnosti/.
 
 Prema zvučnosti, šumni suglasnici se dele na:
