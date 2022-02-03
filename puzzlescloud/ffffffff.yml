@@ -1,0 +1,18 @@
+chapters:
+- chapters: []
+  name: Glasovna promena
+  path: README1.md
+  type: MARKDOWN_CHAPTER
+- chapters: []
+  name: Glasovna promena
+  path: README.md
+  type: MARKDOWN_CHAPTER
+fieldValues:
+  doc-release-date: ''
+  doc-type: ''
+  doc-title: ''
+  File Name: ffffffff.docx
+  doc-version: ''
+name: ROOT
+path: null
+type: null
